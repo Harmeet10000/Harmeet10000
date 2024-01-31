@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![logo](https://www.canva.com/design/DAF7dps0x68/v4i4TGduIt_E7N_uZKEkNw/edit?utm_content=DAF7dps0x68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
 <h3 align="center">Fullstack Developer | Blockchain enthusiast | MERN | REST API | Redux | React Hooks | Firebase | Socket.io | Technical Member@GDSC | Postman Student Expert | FFE Scholar</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
