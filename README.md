@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAF7dps0x68/v4i4TGduIt_E7N_uZKEkNw/edit?utm_content=DAF7dps0x68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/Harmeet10000/Harmeet10000/blob/main/photo-1542315192-1f61a1792f33.avif)
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
 <h3 align="center">Fullstack Developer | Blockchain enthusiast | MERN | REST API | Redux | React Hooks | Firebase | Socket.io | Technical Member@GDSC | Postman Student Expert | FFE Scholar</h3>
 
