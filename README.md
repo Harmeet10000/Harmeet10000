@@ -80,7 +80,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)
 
 <hr/>
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api?username=harmeet10000&show_icons=true&theme=github_dark" alt="harmeet10000" />&nbsp;
@@ -89,7 +89,7 @@
 </div>
 
 <hr/>
- ### 🤝🏻 &nbsp;Connect with Me
+ ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://harmeet-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-harmeet.in-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
