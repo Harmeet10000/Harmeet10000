@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harmeetsinghfbd@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kC3TCe0G5wprKkyNTHYGciqek1b6P3NW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IhAgVkChJ_6tNhDHTFWgEp8FLrIqysHa/view?usp=drive_link)
 
 - ⚡ Fun fact **I like random interesting facts**
 
