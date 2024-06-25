@@ -88,7 +88,7 @@
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://harmeet-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-apoorvdwivedi.in-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/harmeet-singh-crypto/"><img src="https://img.shields.io/badge/-Apoorv%20Dwivedi-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://x.com/Nobody_crypto_H" target="_blank"><img src="https://img.shields.io/badge/-apoorvdwi-00acee?logo=twitter&style=for-the-badge&logoColor=white" alt="twitter-apoorvdwi" /></a>&nbsp;
+<a href="https://harmeet-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-harmeet.in-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/harmeet-singh-crypto/"><img src="https://img.shields.io/badge/Harmeet%20Singh-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://x.com/Nobody_crypto_H" target="_blank"><img src="https://img.shields.io/badge/-Harmeet-00acee?logo=twitter&style=for-the-badge&logoColor=white" alt="twitter-apoorvdwi" /></a>&nbsp;
 </p>
