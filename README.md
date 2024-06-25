@@ -23,7 +23,9 @@
 
 - ⚡ Fun fact **I like random interesting facts**
 
-<h3 align="left">Connect with me:</h3>
+<hr/>
+
+### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://twitter.com/nobody_crypto_h" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobody_crypto_h" height="30" width="40" /></a>
@@ -36,6 +38,8 @@
 <a href="https://www.codingninjas.com/studio/profile/harmeet" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.codingninjas.com/studio/profile/harmeet" height="30" width="40" /></a>
 </p>
+
+<hr/>
 
 ### 🛠 &nbsp;Languages and Tools
 
