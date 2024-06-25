@@ -1,5 +1,5 @@
 ![logo](https://github.com/Harmeet10000/Harmeet10000/blob/main/photo-1542315192-1f61a1792f33.avif)
-                                                          ## Hey 👋, I'm [Harmeet Singh](https://harmeet-portfolio.vercel.app/)
+## Hey 👋, I'm [Harmeet Singh](https://harmeet-portfolio.vercel.app/)
 
 <h3 align="center">Fullstack Developer | Blockchain enthusiast | MERN | REST API | Redux | React Hooks | Firebase | Socket.io | Technical Member@GDSC | Postman Student Expert | FFE Scholar</h3>
 
