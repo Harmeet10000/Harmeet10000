@@ -80,6 +80,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)
 
 <hr/>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
@@ -89,6 +90,7 @@
 </div>
 
 <hr/>
+
  ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
