@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 - 🌱 Currently mastering **Go**, **AI Agents**, **TypeScript**, **Bun**, **Langchain**, **RabbitMQ**, **Kafka**, **Redis**
 - 💼 Building scalable cloud-native applications with **AWS** and **Kubernetes**
