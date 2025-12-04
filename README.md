@@ -1,29 +1,27 @@
 ![logo](https://github.com/Harmeet10000/Harmeet10000/blob/main/photo-1542315192-1f61a1792f33.avif)
+
 ## Hey 👋, I'm [Harmeet Singh](https://harmeet-portfolio.vercel.app/)
 
 <h3 align="center">AWS-Powered Full Stack Developer | MERN Expert | Gopher | Simplifying Complex Problems Through Code | FFE Scholar</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
+## 🎯 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harmeet10000&label=Profile%20views&color=0e75b6&style=flat" alt="harmeet10000" /> </p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-<p align="left"> <a href="https://twitter.com/nobody_crypto_h" target="blank"><img src="https://img.shields.io/twitter/follow/nobody_crypto_h?logo=twitter&style=for-the-badge" alt="nobody_crypto_h" /></a> </p>
+- 🌱 Currently mastering **Go**, **AI Agents**, **TypeScript**, **Bun**, **Langchain**, **RabbitMQ**, **Kafka**, **Redis**
+- 💼 Building scalable cloud-native applications with **AWS** and **Kubernetes**
+- 📝 Sharing knowledge on [Medium](https://medium.com/@harmeetsinghfbd)
+- 💬 Ask me about **anime**, **character arcs** and **tech**
+- 🎓 FFE Scholar | AWS Enthusiast
+- ⚡ Fun fact: I love discovering random interesting facts!
 
-- 🌱 I’m currently learning **React, React Query, Typescript, Next.js, Linux, Rust, Kafka, Redis**
-
-- 📝 I regularly write articles on [https://medium.com/@harmeetsinghfbd](https://medium.com/@harmeetsinghfbd)
-
-- 💬 Ask me about **anime**
-
-- 📫 How to reach me **harmeetsinghfbd@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B7s5J3D2d-34b0OkS1AvuGfFqw_pzK0t/view?usp=sharing)
-
-- ⚡ Fun fact **I like random interesting facts**
-
-<hr/>
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harmeet10000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
@@ -81,13 +79,25 @@
 
 <hr/>
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api?username=harmeet10000&show_icons=true&theme=github_dark" alt="harmeet10000" />&nbsp;
   <img height="180px" src="https://apoorv-github-readme-stats.vercel.app/api/top-langs/?username=apoorvdwi&layout=compact&show_icons=true&theme=github_dark&hide=jupyter%20notebook,html,c,scss,css" alt="apoorvdwi" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=harmeet10000&theme=github_dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-harmeet10000" />
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=harmeet10000&theme=github_dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harmeet10000&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+
 
 <hr/>
 
